@@ -1,0 +1,16 @@
+C:\Users\Randy\Desktop\Lenguajes de Programacion\C#\Pizarra\Principal\bin\Debug\net5.0\Principal.exe
+C:\Users\Randy\Desktop\Lenguajes de Programacion\C#\Pizarra\Principal\bin\Debug\net5.0\Principal.deps.json
+C:\Users\Randy\Desktop\Lenguajes de Programacion\C#\Pizarra\Principal\bin\Debug\net5.0\Principal.runtimeconfig.json
+C:\Users\Randy\Desktop\Lenguajes de Programacion\C#\Pizarra\Principal\bin\Debug\net5.0\Principal.runtimeconfig.dev.json
+C:\Users\Randy\Desktop\Lenguajes de Programacion\C#\Pizarra\Principal\bin\Debug\net5.0\Principal.dll
+C:\Users\Randy\Desktop\Lenguajes de Programacion\C#\Pizarra\Principal\bin\Debug\net5.0\ref\Principal.dll
+C:\Users\Randy\Desktop\Lenguajes de Programacion\C#\Pizarra\Principal\bin\Debug\net5.0\Principal.pdb
+C:\Users\Randy\Desktop\Lenguajes de Programacion\C#\Pizarra\Principal\obj\Debug\net5.0\Principal.csproj.AssemblyReference.cache
+C:\Users\Randy\Desktop\Lenguajes de Programacion\C#\Pizarra\Principal\obj\Debug\net5.0\Principal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Randy\Desktop\Lenguajes de Programacion\C#\Pizarra\Principal\obj\Debug\net5.0\Principal.AssemblyInfoInputs.cache
+C:\Users\Randy\Desktop\Lenguajes de Programacion\C#\Pizarra\Principal\obj\Debug\net5.0\Principal.AssemblyInfo.cs
+C:\Users\Randy\Desktop\Lenguajes de Programacion\C#\Pizarra\Principal\obj\Debug\net5.0\Principal.csproj.CoreCompileInputs.cache
+C:\Users\Randy\Desktop\Lenguajes de Programacion\C#\Pizarra\Principal\obj\Debug\net5.0\Principal.dll
+C:\Users\Randy\Desktop\Lenguajes de Programacion\C#\Pizarra\Principal\obj\Debug\net5.0\ref\Principal.dll
+C:\Users\Randy\Desktop\Lenguajes de Programacion\C#\Pizarra\Principal\obj\Debug\net5.0\Principal.pdb
+C:\Users\Randy\Desktop\Lenguajes de Programacion\C#\Pizarra\Principal\obj\Debug\net5.0\Principal.genruntimeconfig.cache
